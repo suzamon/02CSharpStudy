@@ -1,0 +1,8 @@
+C:\Users\psm53\OneDrive\바탕 화면\CSharpStudy\02CsharpStudy\Chapter12\bin\Debug\Chapter12.exe.config
+C:\Users\psm53\OneDrive\바탕 화면\CSharpStudy\02CsharpStudy\Chapter12\bin\Debug\Chapter12.exe
+C:\Users\psm53\OneDrive\바탕 화면\CSharpStudy\02CsharpStudy\Chapter12\bin\Debug\Chapter12.pdb
+C:\Users\psm53\OneDrive\바탕 화면\CSharpStudy\02CsharpStudy\Chapter12\obj\Debug\Chapter12.csproj.AssemblyReference.cache
+C:\Users\psm53\OneDrive\바탕 화면\CSharpStudy\02CsharpStudy\Chapter12\obj\Debug\Chapter12.csproj.SuggestedBindingRedirects.cache
+C:\Users\psm53\OneDrive\바탕 화면\CSharpStudy\02CsharpStudy\Chapter12\obj\Debug\Chapter12.csproj.CoreCompileInputs.cache
+C:\Users\psm53\OneDrive\바탕 화면\CSharpStudy\02CsharpStudy\Chapter12\obj\Debug\Chapter12.exe
+C:\Users\psm53\OneDrive\바탕 화면\CSharpStudy\02CsharpStudy\Chapter12\obj\Debug\Chapter12.pdb
