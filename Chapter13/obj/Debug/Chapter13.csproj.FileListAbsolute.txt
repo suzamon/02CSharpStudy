@@ -1,0 +1,8 @@
+C:\Users\psm53\Desktop\ChsarpStudy\02CSharpStudy\Chapter13\bin\Debug\Chapter13.exe.config
+C:\Users\psm53\Desktop\ChsarpStudy\02CSharpStudy\Chapter13\bin\Debug\Chapter13.exe
+C:\Users\psm53\Desktop\ChsarpStudy\02CSharpStudy\Chapter13\bin\Debug\Chapter13.pdb
+C:\Users\psm53\Desktop\ChsarpStudy\02CSharpStudy\Chapter13\obj\Debug\Chapter13.csproj.AssemblyReference.cache
+C:\Users\psm53\Desktop\ChsarpStudy\02CSharpStudy\Chapter13\obj\Debug\Chapter13.csproj.SuggestedBindingRedirects.cache
+C:\Users\psm53\Desktop\ChsarpStudy\02CSharpStudy\Chapter13\obj\Debug\Chapter13.csproj.CoreCompileInputs.cache
+C:\Users\psm53\Desktop\ChsarpStudy\02CSharpStudy\Chapter13\obj\Debug\Chapter13.exe
+C:\Users\psm53\Desktop\ChsarpStudy\02CSharpStudy\Chapter13\obj\Debug\Chapter13.pdb
